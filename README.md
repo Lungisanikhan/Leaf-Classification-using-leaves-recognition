@@ -4,7 +4,8 @@ Plants could be classified based on their leaves. The idea is to find the featur
 To run this program first you have to
 
 Steps:
-1. Extract the dataset into a folder.
-2. Extract the zip file in the same folder where dataset has been extracted.
-3. Run the LeafClassification.ipynb on Jupyter Notebook.
-4. Run every cell in a sequence on Jupyter Notebook.
+1. Download the dataset at http://leafsnap.com/dataset/
+2. Extract the dataset into a folder.
+3. Extract the zip file in the same folder where dataset has been extracted.
+4. Run the LeafClassification.ipynb on Jupyter Notebook.
+5. Run every cell in a sequence on Jupyter Notebook.
